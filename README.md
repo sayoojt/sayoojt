@@ -1,7 +1,7 @@
 ### Sayooj Thandasherry, IT Senior Application Architect at flydubai 👋
 
 
-I carry 16 years of rich and insightful experience in Software Industry.9+ years in Airline Passenger Service System (PSS) domain. 
+I carry 19 years of rich and insightful experience in Software Industry.12+ years in Airline Passenger Service System (PSS) domain. 
 
 • Technical Lead for Passenger Service System API – Reservation.
 • Specialized in web development & web services.
