@@ -10,9 +10,9 @@ I carry 19 years of rich and insightful experience in Software Industry.12+ year
 
 sayooj.me is my blog, where i have scribbled few of my technical expertise. 
 
-![AWS-CloudPractitioner](https://images.youracclaim.com/size/340x340/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png)
+![AWS-CloudPractitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 
-![AWS-SolArchitect-Associate](https://images.youracclaim.com/size/340x340/images/6774b3bf-7a82-4d40-a2d1-86b412635bae/AWS-SolArchitect-Associate.png)![AWS-Developer-Associate](https://images.youracclaim.com/size/340x340/images/2a15d440-edbe-44a2-890f-0a0caf7e1442/AWS-Developer-Associate.png)
+![AWS-SolArchitect-Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)![AWS-Developer-Associate](https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 
 <!--
 **sayoojt/sayoojt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
